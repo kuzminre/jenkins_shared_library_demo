@@ -1,0 +1,3 @@
+Hello world script
+
+Dummy script to demonstrate shared library functionality.
