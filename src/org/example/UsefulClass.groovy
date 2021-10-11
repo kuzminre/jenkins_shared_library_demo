@@ -1,3 +1,5 @@
+package org.example
+
 class UsefulClass implements Serializable {
 
     Script script
